@@ -1,0 +1,29 @@
+{
+  "name": "object-first-key",
+  "version": "1.0.0",
+  "description": "Returns the first own key of an object",
+  "license": "MIT",
+  "repository": "ckknight/object-first-key",
+  "author": {
+    "name": "Cameron Knight",
+    "email": "ckknight@gmail.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "object",
+    "first",
+    "key",
+    "property"
+  ],
+  "devDependencies": {
+    "tap": "^10.3.2"
+  }
+}
